@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  padding-inline: 16px;
+  padding-block: 9px;
+  background-color: black;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+
+  nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  ul {
+    list-style: none;
+  }
+}
