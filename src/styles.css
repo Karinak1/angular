@@ -7,9 +7,14 @@ body {
   outline: none;
 }
 p {
-  background-color: rgb(124, 124, 202);
+  font-size: large;
+  text-align: center;
 }
-img {
-  height: 250px;
-  width: 250px;
+
+button {
+  display: inline-block;
+  margin: 150px;
+  padding: 25px;
+  text-align: center;
+  border-radius: 5px;
 }

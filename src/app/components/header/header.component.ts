@@ -8,5 +8,5 @@ import { RouterLink } from '@angular/router';
   styleUrl: './header.component.css',
 })
 export class HeaderComponent {
-  title = signal('my first app');
+  title = signal('COOKIE CLICKER');
 }

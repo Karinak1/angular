@@ -12,10 +12,10 @@ import { HeaderComponent } from './components/header/header.component';
   `,
   styles: [
     `
-      main {
-        padding: 16px;
-        // background-color: tomato;
-      }
+      // main {
+      //   padding: 16px;
+      //   // background-color: tomato;
+      // }
     `,
   ],
 })
