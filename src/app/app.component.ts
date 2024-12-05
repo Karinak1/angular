@@ -6,11 +6,11 @@ import { CounterComponent } from './components/counter/counter.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, HeaderComponent, CounterComponent],
+  imports: [RouterOutlet, HeaderComponent],
   template: `
     <app-header />
     <main><router-outlet /></main>
-    <app-counter />
+    <!-- <app-counter /> -->
   `,
 })
 export class AppComponent {
